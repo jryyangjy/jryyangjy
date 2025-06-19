@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Jiayue Yang**, a first-year Cybersecurity undergrad at [USTC](https://www.ustc.edu.cn/). Exploring the intersection of programming and AI fundamentals.
+I'm **Jiayue Yang**, a first-year Cybersecurity undergrad at [USTC](https://www.ustc.edu.cn/). Exploring the intersection of programming and AI fundamentals. I'm also a member of [SPIN-Lab](https://spin-ustc.cn/), supervised by prof. [Xia](https://saids.ustc.edu.cn/2024/1105/c36363a686123/page.htm)
 
 ## 📚 Current Focus
 - **Core Skills**: 
