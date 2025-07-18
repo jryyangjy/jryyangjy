@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Jiayue Yang**, a second-year Computer Science major at [USTC](https://www.ustc.edu.cn/). Exploring the intersection of programming and AI fundamentals. I'm fortunate to be supervised by Prof. [Xia](https://saids.ustc.edu.cn/2024/1105/c36363a686123/page.htm) at [SPIN-Lab](https://spin-ustc.cn/), with research interests in computer vision and spatial intelligence.
+I'm **Jiayue Yang**, a second-year Computer Science major at [USTC](https://www.ustc.edu.cn/), exploring the intersection of programming and AI fundamentals. I'm fortunate to be supervised by Prof. [Xia](https://saids.ustc.edu.cn/2024/1105/c36363a686123/page.htm) at [SPIN-Lab](https://spin-ustc.cn/), with research interests in computer vision and spatial intelligence.
 
 ## 📚 Current Focus
 - **Core Skills**: 
