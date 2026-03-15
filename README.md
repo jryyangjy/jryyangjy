@@ -10,7 +10,7 @@ I'm **Jiayue Yang**, a second-year Computer Science major at [USTC](https://www.
   ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux)
 - **Focus**:
-  My research interests focus on 3D Vision, Localization, Navigation and reconstruction.
+  My research interests focus on 3D Vision, Localization, Navigation and Reconstruction.
 
 ## 🚧 In Progress
 - Implementing basic algorithms in Python
